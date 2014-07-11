@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/Epam"
+        xmlns:tns="http://www.example.com/Epam"
+        elementFormDefault="qualified">
+
+    <element name="device" type="tns:Device" abstract="true"></element>
+    <element name="hairdryer" type="tns:Hairdryer" substitutionGroup="tns:device"></element>
+    <element name="fridge" type="tns:Fridge" substitutionGroup="tns:device"></element>
+    <element name="oven" type="tns:Oven" substitutionGroup="tns:device"></element>
+
+    <element name="devices">
+        <complexType>
+            <sequence>
+                <element ref="tns:device"  minOccurs="1" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+
+    <complexType name="Device">
+        <sequence>
+            <element name="is-on" type="boolean" default="false"/>
+            <element name="power" type="positiveInteger"/>
+            <element name="weight" type="positiveInteger"/>
+            <element name="cost" type="positiveInteger"/>
+        </sequence>
+        <attribute name="id" type="ID" use="required"/>
+    </complexType>
+
+    <complexType name="Hairdryer">
+        <complexContent>
+            <extension base="tns:Device">
+                <sequence>
+                    <element name="wind-speed" type="positiveInteger"/>
+                </sequence>
+                <attribute name="brand" use="optional" default="N/A">
+                    <simpleType>
+                        <restriction base="string">
+                            <enumeration value="Bosch"></enumeration>
+                            <enumeration value="Rowenta"></enumeration>
+                            <enumeration value="Philips "></enumeration>
+                        </restriction>
+                    </simpleType>
+                </attribute>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Fridge">
+        <complexContent>
+            <extension base="tns:Device">
+                <sequence>
+                    <element name="fridgeTemperature" type="positiveInteger"/>
+                </sequence>
+                <attribute name="brand" use="optional" default="N/A">
+                    <simpleType>
+                        <restriction base="string">
+                            <enumeration value="Bosch"></enumeration>
+                            <enumeration value="Samsung"></enumeration>
+                            <enumeration value="LG"></enumeration>
+                        </restriction>
+                    </simpleType>
+                </attribute>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Oven">
+        <complexContent>
+            <extension base="tns:Device">
+                <sequence>
+                    <element name="ovenTemperature" type="positiveInteger"/>
+                </sequence>
+                <attribute name="brand" use="required">
+                </attribute>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <simpleType name="Device-id">
+        <restriction base="ID">
+            <pattern value="\d+"/>
+        </restriction>
+    </simpleType>
+
+
+</schema>

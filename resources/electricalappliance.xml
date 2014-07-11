@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.example.com/Epam"
+        xsi:schemaLocation="http://www.example.com/Epam electricalappliance.xsd">
+    <hairdryer id="h1" brand="Rowenta">
+      <is-on>false</is-on>
+      <power>100</power>
+      <weight>1</weight>
+      <cost>60</cost>
+      <wind-speed>70</wind-speed>
+   </hairdryer>
+   <hairdryer id="h2" brand="Bosch">
+       <is-on>true</is-on>
+       <power>150</power>
+       <weight>1</weight>
+       <cost>100</cost>
+       <wind-speed>100</wind-speed>
+   </hairdryer>
+   <fridge id="f2" brand="Bosch">
+       <is-on>true</is-on>
+       <power>300</power>
+       <weight>30</weight>
+       <cost>900</cost>
+       <fridgeTemperature>11</fridgeTemperature>
+   </fridge>
+   <oven id="o3" brand="Gefest">
+       <is-on>true</is-on>
+       <power>200</power>
+       <weight>20</weight>
+       <cost>600</cost>
+       <ovenTemperature>20</ovenTemperature>
+   </oven>
+</devices>

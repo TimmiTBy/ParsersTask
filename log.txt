@@ -1,0 +1,123 @@
+25 èþí 2014 04:48:06.708 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+25 èþí 2014 04:48:06.710 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+25 èþí 2014 04:48:06.710 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+25 èþí 2014 04:48:06.711 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+25 èþí 2014 04:48:06.712 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+25 èþí 2014 04:48:06.712 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true Has been added to SmartHouse
+25 èþí 2014 04:48:06.712 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true has been found
+25 èþí 2014 04:48:06.715 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.Sort] - Devices were sorted
+25 èþí 2014 04:48:06.717 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.TotalCounter] - Total cost: 1650
+08 èþë 2014 17:54:58.665 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+08 èþë 2014 17:54:58.699 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+08 èþë 2014 17:54:58.700 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+08 èþë 2014 17:54:58.701 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+08 èþë 2014 17:54:58.702 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+08 èþë 2014 17:54:58.702 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true Has been added to SmartHouse
+08 èþë 2014 17:54:58.735 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true has been found
+08 èþë 2014 17:54:58.766 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.Sort] - Devices were sorted
+08 èþë 2014 17:54:58.767 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.TotalCounter] - Total cost: 1650
+08 èþë 2014 17:59:15.788 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+08 èþë 2014 17:59:15.798 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+08 èþë 2014 17:59:15.806 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+08 èþë 2014 17:59:15.807 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+08 èþë 2014 17:59:15.807 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+08 èþë 2014 17:59:15.808 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true Has been added to SmartHouse
+08 èþë 2014 17:59:15.821 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true has been found
+08 èþë 2014 17:59:15.839 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.Sort] - Devices were sorted
+08 èþë 2014 17:59:15.840 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.TotalCounter] - Total cost: 1650
+09 èþë 2014 06:03:25.803 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+09 èþë 2014 06:03:25.804 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status false Has been added to SmartHouse
+09 èþë 2014 06:03:25.805 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 06:03:25.805 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 100 power, status true Has been added to SmartHouse
+09 èþë 2014 06:03:25.806 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+09 èþë 2014 06:03:25.806 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+09 èþë 2014 06:22:24.626 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+09 èþë 2014 06:22:24.628 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status false Has been added to SmartHouse
+09 èþë 2014 06:22:24.628 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+09 èþë 2014 06:22:24.628 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 150 power, status true Has been added to SmartHouse
+09 èþë 2014 06:22:24.637 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 06:22:24.638 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+09 èþë 2014 06:22:24.645 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+09 èþë 2014 06:22:24.645 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+09 èþë 2014 10:27:02.396 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:27:02.397 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:27:02.397 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:27:02.398 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:27:55.654 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:31:11.865 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:31:55.105 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:31:55.107 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:31:55.107 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:31:55.107 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:31:55.107 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:31:55.107 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:31:55.108 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:31:55.108 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:33:49.956 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:35:02.201 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:35:02.202 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:35:02.203 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:35:02.203 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:35:02.203 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:35:02.203 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+09 èþë 2014 10:35:02.204 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+09 èþë 2014 10:35:02.204 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 0 power, status false Has been added to SmartHouse
+10 èþë 2014 22:25:57.868 [INFO] [main] [com.epam.electricalappliance.parser.domparser.DOMParser] - HAIRDRYER parsed
+10 èþë 2014 22:25:57.872 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 22:25:57.873 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status false Has been added to SmartHouse
+10 èþë 2014 22:25:57.873 [INFO] [main] [com.epam.electricalappliance.parser.domparser.DOMParser] - HAIRDRYER parsed
+10 èþë 2014 22:25:57.873 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 22:25:57.873 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 150 power, status true Has been added to SmartHouse
+10 èþë 2014 22:25:57.873 [INFO] [main] [com.epam.electricalappliance.parser.domparser.DOMParser] - FRIDGE parsed
+10 èþë 2014 22:25:57.875 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 22:25:57.875 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+10 èþë 2014 22:25:57.876 [INFO] [main] [com.epam.electricalappliance.parser.domparser.DOMParser] - OVEN parsed
+10 èþë 2014 22:25:57.878 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+10 èþë 2014 22:25:57.878 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+10 èþë 2014 23:34:13.912 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:34:13.914 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:35:24.223 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:35:24.224 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:38:00.743 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:38:00.744 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:38:00.744 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:38:00.744 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:38:00.745 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:41:21.790 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:41:21.791 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:41:21.791 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:41:21.792 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:41:21.792 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:43:34.910 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:43:34.911 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:44:04.053 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:44:04.054 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:44:04.054 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:44:57.721 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:44:57.722 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:44:57.722 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:44:57.722 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:45:31.434 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:45:31.435 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:45:31.436 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:45:31.436 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:45:51.664 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:45:51.665 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+10 èþë 2014 23:45:51.665 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+10 èþë 2014 23:45:51.666 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+11 èþë 2014 00:10:19.945 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+11 èþë 2014 00:10:19.947 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status false Has been added to SmartHouse
+11 èþë 2014 00:10:19.947 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+11 èþë 2014 00:10:19.947 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 150 power, status true Has been added to SmartHouse
+11 èþë 2014 00:10:19.947 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+11 èþë 2014 00:10:19.948 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+11 èþë 2014 00:10:19.948 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+11 èþë 2014 00:10:19.948 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+11 èþë 2014 00:12:03.480 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+11 èþë 2014 00:12:03.481 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status false Has been added to SmartHouse
+11 èþë 2014 00:12:03.482 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+11 èþë 2014 00:12:03.482 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 150 power, status true Has been added to SmartHouse
+11 èþë 2014 00:12:03.482 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+11 èþë 2014 00:12:03.482 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+11 èþë 2014 00:12:03.482 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+11 èþë 2014 00:12:03.483 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
